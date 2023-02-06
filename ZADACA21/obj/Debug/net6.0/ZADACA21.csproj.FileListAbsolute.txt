@@ -1,0 +1,15 @@
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\obj\Debug\net6.0\ZADACA21.csproj.AssemblyReference.cache
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\obj\Debug\net6.0\ZADACA21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\obj\Debug\net6.0\ZADACA21.AssemblyInfoInputs.cache
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\obj\Debug\net6.0\ZADACA21.AssemblyInfo.cs
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\obj\Debug\net6.0\ZADACA21.csproj.CoreCompileInputs.cache
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\bin\Debug\net6.0\ZADACA21.exe
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\bin\Debug\net6.0\ZADACA21.deps.json
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\bin\Debug\net6.0\ZADACA21.runtimeconfig.json
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\bin\Debug\net6.0\ZADACA21.dll
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\bin\Debug\net6.0\ZADACA21.pdb
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\obj\Debug\net6.0\ZADACA21.dll
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\obj\Debug\net6.0\refint\ZADACA21.dll
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\obj\Debug\net6.0\ZADACA21.pdb
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\obj\Debug\net6.0\ZADACA21.genruntimeconfig.cache
+C:\Users\Валера\Desktop\seminar3\sminar3\dz\ZADACA21\obj\Debug\net6.0\ref\ZADACA21.dll
